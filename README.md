@@ -1,6 +1,6 @@
 # SonOyuncuTitaniumItem
 SonOyuncu Titanium Items
-VirusTotal:
+VirusTotal: https://www.virustotal.com/gui/file/eef6750ed51520091149b843b6e4a36ebff0341b2b62f4b5a6864d5c858b4074
 
 TR
 
